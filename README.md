@@ -1,4 +1,4 @@
-### Some games I have developed.
+### Some of the games I have developed.
 
 **1) Caravan Design**  :  https://apps.apple.com/us/app/caravan-design/id1516280277
 
