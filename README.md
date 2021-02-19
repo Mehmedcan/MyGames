@@ -6,7 +6,7 @@
 
 **2) Funny Dino Race**  :  https://apps.apple.com/us/app/funny-dino-race/id1553760398
 
-![Icon_DinoRace](https://user-images.githubusercontent.com/44032886/108483397-be24f800-72ab-11eb-8efd-8908340e2088.jpg)
+![Untitled design](https://user-images.githubusercontent.com/44032886/108483861-40adb780-72ac-11eb-82a4-588be29e456f.png)
 
 **3) Carpet Surfer**  :  https://apps.apple.com/us/app/carpet-surfer/id1524283989
 
