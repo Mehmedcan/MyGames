@@ -75,7 +75,7 @@
 ![PoolPuzzle](https://user-images.githubusercontent.com/44032886/132515829-d5a25368-f712-4c56-bdcd-fa8122b93db6.png)
 
 
-**16) Balance Run**  :  https://apps.apple.com/us/app/balance-challange/id1566048205
+**16) Balance Challange**  :  https://apps.apple.com/us/app/balance-challange/id1566048205
 
 ![BalanceRun](https://user-images.githubusercontent.com/44032886/132515910-72be2bf8-fbf9-4344-9688-6915e75dc1bd.png)
 
